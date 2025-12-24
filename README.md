@@ -1,2 +1,2 @@
 Facemash 
-Zuckerberg gave idea, i'm realized 
+Zuckerberg gave idea
